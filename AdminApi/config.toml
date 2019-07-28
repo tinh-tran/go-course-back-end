@@ -1,0 +1,10 @@
+DBServer="localhost"
+DBPort="3306"
+Database="coursedb"
+DbUser="root"
+DbPassword="root"
+
+ServicePort="8081"
+
+LogDir="d:\\Go_WorkPlace\\src\\EmployeeService.log"
+LogLevel="DEBUG"

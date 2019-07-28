@@ -1,0 +1,9 @@
+DBServer="localhost"
+DBPort="3306"
+Database="coursedb"
+DbUser="root"
+DbPassword="root"
+
+ServicePort="8085"
+
+LogLevel="DEBUG"

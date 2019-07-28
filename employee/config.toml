@@ -1,0 +1,10 @@
+DBServer="localhost"
+DBPort="3306"
+Database="coursedb"
+DbUser="root"
+DbPassword="root"
+
+ServicePort="8082"
+
+LogDir="d:\\Workspace\\src\\EmployeeService.log"
+LogLevel="DEBUG"
